@@ -1,0 +1,5 @@
+C:\Users\soulf\source\repos\PruebaBST\Enumerables\bin\Debug\Enumerables.dll
+C:\Users\soulf\source\repos\PruebaBST\Enumerables\bin\Debug\Enumerables.pdb
+C:\Users\soulf\source\repos\PruebaBST\Enumerables\obj\Debug\Enumerables.csproj.CoreCompileInputs.cache
+C:\Users\soulf\source\repos\PruebaBST\Enumerables\obj\Debug\Enumerables.dll
+C:\Users\soulf\source\repos\PruebaBST\Enumerables\obj\Debug\Enumerables.pdb

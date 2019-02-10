@@ -1,0 +1,11 @@
+C:\Users\soulf\source\repos\PruebaBST\PruebaBST.BLL\obj\Debug\PruebaBST.BLL.csprojAssemblyReference.cache
+C:\Users\soulf\source\repos\PruebaBST\PruebaBST.BLL\obj\Debug\PruebaBST.BLL.csproj.CoreCompileInputs.cache
+C:\Users\soulf\source\repos\PruebaBST\PruebaBST.BLL\bin\Debug\PruebaBST.BLL.dll
+C:\Users\soulf\source\repos\PruebaBST\PruebaBST.BLL\bin\Debug\PruebaBST.BLL.pdb
+C:\Users\soulf\source\repos\PruebaBST\PruebaBST.BLL\bin\Debug\DAL.dll
+C:\Users\soulf\source\repos\PruebaBST\PruebaBST.BLL\bin\Debug\Enumerables.dll
+C:\Users\soulf\source\repos\PruebaBST\PruebaBST.BLL\bin\Debug\DAL.pdb
+C:\Users\soulf\source\repos\PruebaBST\PruebaBST.BLL\bin\Debug\Enumerables.pdb
+C:\Users\soulf\source\repos\PruebaBST\PruebaBST.BLL\obj\Debug\PruebaBST.BLL.csproj.CopyComplete
+C:\Users\soulf\source\repos\PruebaBST\PruebaBST.BLL\obj\Debug\PruebaBST.BLL.dll
+C:\Users\soulf\source\repos\PruebaBST\PruebaBST.BLL\obj\Debug\PruebaBST.BLL.pdb

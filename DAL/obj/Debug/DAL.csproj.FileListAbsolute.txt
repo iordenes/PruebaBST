@@ -1,0 +1,9 @@
+C:\Users\soulf\source\repos\PruebaBST\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\soulf\source\repos\PruebaBST\DAL\bin\Debug\DAL.dll
+C:\Users\soulf\source\repos\PruebaBST\DAL\bin\Debug\DAL.pdb
+C:\Users\soulf\source\repos\PruebaBST\DAL\obj\Debug\DAL.dll
+C:\Users\soulf\source\repos\PruebaBST\DAL\obj\Debug\DAL.pdb
+C:\Users\soulf\source\repos\PruebaBST\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\soulf\source\repos\PruebaBST\DAL\bin\Debug\Enumerables.dll
+C:\Users\soulf\source\repos\PruebaBST\DAL\bin\Debug\Enumerables.pdb
+C:\Users\soulf\source\repos\PruebaBST\DAL\obj\Debug\DAL.csproj.CopyComplete
